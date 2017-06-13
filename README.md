@@ -6,3 +6,10 @@ Includes low-level hardware communication up to high-level functionalities
 This development was part of a System Integration project performed at Hewlett-Packard Inc. Laboratories.
 The present python code was developed by Fausto D'Apuzzo between Feb-Mar 2017,
 under supervision of Alex P. 
+
+Hierarchy:
+=========================================================================================
+D300 stage   -> Stage Class        ->  Logan  ->   Control_ai  ->   Control_ui
+Snowy Range  -> Spectrometer Class ->
+
+ (HARDWARE)      (SERIAL COMM.)       (INTEGR.)    (FEATURES)      (USER-INTERFACE COMM.)
