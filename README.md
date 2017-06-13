@@ -9,7 +9,9 @@ under supervision of Alex P.
 
 Hierarchy:
 =========================================================================================
-D300 stage   -> Stage Class        ->  Logan  ->   Control_ai  ->   Control_ui
+D300 stage   -> Stage Class        ->  
+
+______________________________________________ Logan  ->   Control_ai  ->   Control_ui
 
 Snowy Range  -> Spectrometer Class ->
 
