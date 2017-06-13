@@ -11,4 +11,4 @@ Hierarchy:
 =========================================================================================
  (HARDWARE) ->>>>>> (SERIAL COMM.) ->  (INTEGR.) -> (FEATURES) -> (USER-INTERFACE COMM.)
  
-__D300/Snowy Range -> Stage/spectr. Class ->  Logan  ->>>   Control_ai  ->>>   Control_ui
+D300/Snowy Range -> Stage/spectr. Class ->  Logan  ->>>   Control_ai  ->>>   Control_ui
