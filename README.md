@@ -10,4 +10,5 @@ under supervision of Alex P.
 Hierarchy:
 =========================================================================================
  (HARDWARE)           (SERIAL COMM.)            (INTEGR.)       (FEATURES)      (USER-INTERFACE COMM.)
+ 
 D300/Snowy Range -> Stage/spectr. Class ->  Logan  ->   Control_ai  ->   Control_ui
