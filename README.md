@@ -10,6 +10,7 @@ under supervision of Alex P.
 Hierarchy:
 =========================================================================================
 D300 stage   -> Stage Class        ->  Logan  ->   Control_ai  ->   Control_ui
+
 Snowy Range  -> Spectrometer Class ->
 
  (HARDWARE)      (SERIAL COMM.)       (INTEGR.)    (FEATURES)      (USER-INTERFACE COMM.)
