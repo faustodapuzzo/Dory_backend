@@ -11,7 +11,7 @@ Hierarchy:
 =========================================================================================
 D300 stage   -> Stage Class        ->  
 
-______________________________________________ Logan  ->   Control_ai  ->   Control_ui
+                                          Logan  ->   Control_ai  ->   Control_ui
 
 Snowy Range  -> Spectrometer Class ->
 
